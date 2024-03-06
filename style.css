@@ -25,7 +25,7 @@ nav ul{
     gap: 40px;
 }
 body{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url(default_make_a_image_of_people_playing_cricket_and_football_in_2.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url(..\Users\Dell\Downloads\Default_make_a_image_of_people_playing_cricket_and_football_in_2.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
